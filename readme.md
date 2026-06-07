@@ -4,7 +4,11 @@ A fully autonomous multi-agent research pipeline that takes any topic, searches 
 
 ---
 
-![Architecture](Architecture.png)
+<p align="center">
+  <img src="Architecture.png" width="500" alt="Architecture Diagram"/>
+</p>
+
+---
 
 ## 🧠 How It Works
 
