@@ -69,7 +69,7 @@ Final Report + Feedback + JSON Download
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/research-agent.git
+[git clone https://github.com/your-username/research-agent.git](https://github.com/Ganeshpawar74/Multi-Agent-Research-System.git)
 cd research-agent
 ```
 
